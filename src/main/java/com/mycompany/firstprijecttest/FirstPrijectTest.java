@@ -10,10 +10,11 @@ package com.mycompany.firstprijecttest;
  */
 public class FirstPrijectTest {
 
-    public static void main(String[] args, String c) {
-        int a =5;
+    public static void main(String[] args, String c){
+        int a = 5;
         int b = 10;
-                int = a+b;
+        int a + b =c;
+                
                 System.out.println("Sum : "+c);
     }
 }
